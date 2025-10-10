@@ -4599,15 +4599,15 @@ const Ro = {
   chatSessionKey: "sessionId",
   defaultLanguage: "en",
   showWelcomeScreen: !1,
-  initialMessages: ["Вітаю! 👋 Я – ШІ-консультант у команді VIRSHI. Скажи будь ласка своє ім'я?"],
+  initialMessages: ["Hi there! 👋", "My name is Nathan. How can I assist you today?"],
   i18n: {
     en: {
-      title: "Virshi.ai",
-      subtitle: "Я тут, щоб допомогти вам 24/7.",
+      title: "Hi there! 👋",
+      subtitle: "Start a chat. We're here to help you 24/7.",
       footer: "",
-      getStarted: "Нова розмова",
-      inputPlaceholder: "Текст повідомлення...",
-      closeButtonTooltip: "Закрити чат"
+      getStarted: "New Conversation",
+      inputPlaceholder: "Type your question..",
+      closeButtonTooltip: "Close chat"
     }
   },
   theme: {},
