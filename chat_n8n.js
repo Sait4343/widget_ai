@@ -4599,15 +4599,15 @@ const Ro = {
   chatSessionKey: "sessionId",
   defaultLanguage: "en",
   showWelcomeScreen: !1,
-  initialMessages: ["Hi there! 👋", "My name is Nathan. How can I assist you today?"],
+  initialMessages: ["Вітаю! 👋 Я – ШІ-консультант у команді VIRSHI", "Скажи будь ласка своє ім'я?"],
   i18n: {
     en: {
       title: "ШІ-консультант",
-      subtitle: "Start a chat. We're here to help you 24/7.",
+      subtitle: "Я тут, щоб допомогати вам 24/7.",
       footer: "",
-      getStarted: "New Conversation",
-      inputPlaceholder: "Type your question..",
-      closeButtonTooltip: "Close chat"
+      getStarted: "Нова розмова",
+      inputPlaceholder: "Tекст повідомлення...",
+      closeButtonTooltip: "Закрити чат"
     }
   },
   theme: {},
@@ -28156,4 +28156,5 @@ function j4e(e) {
 export {
   j4e as createChat
 };
+
 
