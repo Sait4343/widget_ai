@@ -4603,18 +4603,10 @@ const Ro = {
   i18n: {
     en: {
       title: "ШІ-консультант",
-      subtitle: "Я тут, щоб допомогти вам 24/7",
+      subtitle: "Я тут, щоб допомогти вам 24/7.",
       footer: "",
       getStarted: "Нова розмова",
-      inputPlaceholder: "Текст повідомлення..",
-      closeButtonTooltip: "Закрити чат"
-    }
-        ua: {
-      title: "ШІ-консультант",
-      subtitle: "Я тут, щоб допомогти вам 24/7",
-      footer: "",
-      getStarted: "Нова розмова",
-      inputPlaceholder: "Текст повідомлення..",
+      inputPlaceholder: "Текст повідомлення...",
       closeButtonTooltip: "Закрити чат"
     }
   },
