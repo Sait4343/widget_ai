@@ -4609,14 +4609,6 @@ const Ro = {
       inputPlaceholder: "Текст повідомлення..",
       closeButtonTooltip: "Закрити чат"
     }
-        ua: {
-      title: "ШІ-консультант",
-      subtitle: "Я тут, щоб допомогти вам 24/7",
-      footer: "",
-      getStarted: "Нова розмова",
-      inputPlaceholder: "Текст повідомлення..",
-      closeButtonTooltip: "Закрити чат"
-    }
   },
   theme: {},
   enableStreaming: !1
