@@ -364,7 +364,7 @@
             </div>
             <div class="chat-messages"></div>
             <div class="chat-input">
-                <textarea placeholder="Напишіть своє повідомлення тут..." rows="1"></textarea>
+                <textarea placeholder="Текст повідомлення..." rows="1"></textarea>
                 <button type="submit">Відправити</button>
             </div>
             <div class="chat-footer">
@@ -501,4 +501,5 @@
             chatContainer.classList.remove('open');
         });
     });
+
 })();
