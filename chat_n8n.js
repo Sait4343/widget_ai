@@ -4602,7 +4602,7 @@ const Ro = {
   initialMessages: ["Hi there! 👋", "My name is Nathan. How can I assist you today?"],
   i18n: {
     en: {
-      title: "Hi there! 👋",
+      title: "ШІ-консультант",
       subtitle: "Start a chat. We're here to help you 24/7.",
       footer: "",
       getStarted: "New Conversation",
@@ -28156,3 +28156,4 @@ function j4e(e) {
 export {
   j4e as createChat
 };
+
